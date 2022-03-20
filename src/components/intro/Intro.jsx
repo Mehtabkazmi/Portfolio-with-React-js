@@ -27,7 +27,8 @@ export default function Intro() {
           <h1>Syed Mehtab Kazmi</h1>
           <h3>
             Freelance <span ref={textRef}></span>
-          </h3>
+          </h3><br />
+          <p>A graduated interested to work on energizing problems and make use of skills for developing the latest software solutions.</p>
         </div>
         <a href="#portfolio">
           <img className="arrow" src="assets/down.png" alt="" />
